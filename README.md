@@ -1,4 +1,4 @@
-<h1 align="center"> Quick Readme of me! 👁️ fiax3n</h1>
+<h1 align="center"> Quick Readme of me! 👁️ Yusuf Marín (aka: fiax3n)</h1>
 
 <p align="center">
 	<a href="https://github.com/fiax3n">
