@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/fiax3n">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ethical+Hacker;Penetration+Tester;Cybersecurity+Enthusiast" alt="Typing SVG" />
+		<img src="https://raw.githubusercontent.com/fiax3n/fiax3n/refs/heads/main/fiax3n.svg" alt="Typing SVG" />
 	</a>
 </p>
 
