@@ -2,7 +2,7 @@
 
   <!-- First Line -->
   <path id="path0" d="M0,25 H0">
-    <animate id="a0" attributeName="d" begin="0s;a3.end" dur="2s" fill="remove"
+    <animate id="a0" attributeName="d" begin="0s;a3.end" dur="3.5s" fill="remove"
       values="M0,25 H0; M0,25 H435" keyTimes="0;1" />
   </path>
   <text font-family="'Fira Code', monospace" fill="#36BCF7" font-size="20"
@@ -14,7 +14,7 @@
 
   <!-- Second Line -->
   <path id="path1" d="M0,55 H0">
-    <animate id="a1" attributeName="d" begin="a0.end" dur="2s" fill="remove"
+    <animate id="a1" attributeName="d" begin="a0.end" dur="3.5s" fill="remove"
       values="M0,55 H0; M0,55 H435" keyTimes="0;1" />
   </path>
   <text font-family="'Fira Code', monospace" fill="#36BCF7" font-size="20"
@@ -26,7 +26,7 @@
 
   <!-- Third Line -->
   <path id="path2" d="M0,85 H0">
-    <animate id="a2" attributeName="d" begin="a1.end" dur="2s" fill="remove"
+    <animate id="a2" attributeName="d" begin="a1.end" dur="3.5s" fill="remove"
       values="M0,85 H0; M0,85 H435" keyTimes="0;1" />
   </path>
   <text font-family="'Fira Code', monospace" fill="#36BCF7" font-size="20"
@@ -38,7 +38,7 @@
 
   <!-- Fourth Line -->
   <path id="path3" d="M0,115 H0">
-    <animate id="a3" attributeName="d" begin="a2.end" dur="2s" fill="remove"
+    <animate id="a3" attributeName="d" begin="a2.end" dur="3.5s" fill="remove"
       values="M0,115 H0; M0,115 H435" keyTimes="0;1" />
   </path>
   <text font-family="'Fira Code', monospace" fill="#36BCF7" font-size="20"
